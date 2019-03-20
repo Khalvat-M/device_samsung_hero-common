@@ -101,3 +101,9 @@ PRODUCT_PACKAGES += \
 # call the proprietary setup
 $(call inherit-product, vendor/samsung/hero-common/hero-common-vendor.mk)
 $(call inherit-product, vendor/samsung/bsp/bsp-common-vendor.mk)
+
+# Telephony
+PRODUCT_PACKAGES += \
+    telephony-ext
+ PRODUCT_BOOT_JARS += \
+    telephony-ext
