@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+                __   __      __   __        ___    __  
+|__|  /\  \  / /  \ /  `    /  ` /  \ |\ | |__  | / _` 
+|  | /~~\  \/  \__/ \__,    \__, \__/ | \| |    | \__> 
+                                                       
+-->
+
+<resources>
+
+    <bool name="config_HomeWakeButton">true</bool>
+
+</resources>
